@@ -92,21 +92,8 @@ I build at the intersection of product and engineering: understanding the proble
 
 ---
 
-## 📊 GitHub
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=igorjohn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igorjohn&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=igorjohn&theme=tokyonight&hide_border=true" alt="Streak"/>
-</p>
-
----
-
-<p align="center">
-  <b>Looking for someone who builds?</b><br/>
+  #### 🧱 Looking for someone who builds?<br/>
   Open to international remote roles as a Forward Deployed Engineer, Product Engineer or any technical role where I own the problem end to end.<br/><br/>
   <a href="https://igorjohn.dev">igorjohn.dev</a> · <a href="mailto:igorsjohn@gmail.com">igorsjohn@gmail.com</a>
 </p>
