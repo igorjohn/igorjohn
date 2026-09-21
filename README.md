@@ -53,6 +53,8 @@ I build at the intersection of product and engineering: understanding the proble
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
   <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Agents%20%26%20Subagents-1f1f1f?style=flat-square" alt="Agents"/>
   <img src="https://img.shields.io/badge/Structured%20Outputs-1f1f1f?style=flat-square" alt="Structured Outputs"/>
   <img src="https://img.shields.io/badge/Context%20Engineering-1f1f1f?style=flat-square" alt="Context Engineering"/>
