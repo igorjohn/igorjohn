@@ -1,13 +1,13 @@
 <h1 align="center">Hey, I'm Igor John 👋</h1>
 
 <p align="center">
-  <b>Forward Deployed Engineer &amp; Founder</b><br/>
+  <b>Forward Deployed Engineer &amp; Product Builder &#124; GTM &#124; Domain-Driven Design (DDD) &#124; Built a bootstrapped payments platform to $60M+ GMV</b><br/>
   <i>I turn ambiguous problems into products that reach production.</i>
 </p>
 
 <p align="center">
-  <a href="https://igorjohn.dev"><img src="https://img.shields.io/badge/igorjohn.dev-portfolio-E36002?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/igor-john-a3902a68"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://igorjohn.dev"><img src="https://img.shields.io/badge/igorjohn.dev-portfolio-E36002?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio 🎨"/></a>
+  <a href="https://linkedin.com/in/igor-john-a3902a68"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -19,7 +19,6 @@ I build at the intersection of product and engineering: understanding the proble
 - 🧱 **Co-founded [Pepper](https://igorjohn.dev)** and helped take it from its first checkout to **BRL 300M+ processed** across **17,000+ creators**, bootstrapped.
 - 🏗️ **CTO at MakersHub**, leading a full rebuild while the legacy keeps serving customers in production.
 - 🤖 Shipping **agentic systems** in production: agents, subagents, structured outputs, spec-driven development.
-- 🎮 Side quest: [**Rotten Souls**](https://github.com/igorjohn/rotten-souls), a Souls-like boss fight running in the browser on WebGPU.
 
 ---
 
@@ -85,23 +84,11 @@ I build at the intersection of product and engineering: understanding the proble
 
 ---
 
-## 🚀 What I've shipped
-
-| | Project | What it is |
-|---|---|---|
-| 💳 | **Pepper** | Payments and technology platform built from zero. I wrote the original checkout, modelled the initial database and business rules, and stayed the product reference for four years. BRL 300M+ processed, 17,000+ creators, bootstrapped. |
-| 🎬 | **MakersHub** | End-to-end management platform for video production companies. Leading the technical rebuild: four competing schemas consolidated, 60 legacy screens audited, 113 issues mapped before the new domain model. Bun, Hono, Drizzle, Zod, Postgres, Nuxt. |
-| 🤖 | **Agent-driven site pipeline** | Agentic automation that finds local businesses with little digital presence, enriches the lead, generates a website and writes a personalised proposal. Nine stages, isolated state per lead, agents kept under control. |
-| 🧱 | **Builders** | Community platform for the digital market: forum, marketplace, workhub and academy. Modular monolith on Fastify and PostgreSQL. |
-| 🏰 | **Rotten Souls** | Souls-like boss fight in the browser: Three.js on WebGPU, Rapier physics, procedurally generated gothic arena, synthesised Web Audio. 60 fps in 1080p, no engine. |
-
----
-
 ## 🧳 Where I've worked
 
-- 🏗️ **CTO, MakersHub** · 2026 to present
-- 🌶️ **Co-founder &amp; CPO, Pepper** · 2022 to 2026
-- 🎓 **CEO &amp; co-founder, Cinética** · 2019 to 2022, where I learned to code by building the company's own checkout, the code that became the first version of Pepper
+- 🏗️ **CTO &amp; Forward Deployed Engineer – MakersHub** · 2026 to present
+- 🌶️ **Co-founder &amp; CPO – Pepper** · 2022 to 2026
+- 🎓 **CEO &amp; co-founder – Cinética** · 2019 to 2022
 
 ---
 
@@ -115,12 +102,6 @@ I build at the intersection of product and engineering: understanding the proble
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=igorjohn&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
-
----
-
-## 📺 Building in public
-
-I record what I'm building and testing on [YouTube](https://www.youtube.com/@igorsjohn): automations, AI tooling and product experiments.
 
 ---
 
