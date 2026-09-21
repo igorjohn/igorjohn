@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://igorjohn.dev"><img src="https://img.shields.io/badge/igorjohn.dev-portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://igorjohn.dev"><img src="https://img.shields.io/badge/igorjohn.dev-portfolio-E36002?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/igor-john-a3902a68"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
