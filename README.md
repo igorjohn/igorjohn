@@ -8,12 +8,6 @@
 <p align="center">
   <a href="https://igorjohn.dev"><img src="https://img.shields.io/badge/igorjohn.dev-portfolio-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/igor-john-a3902a68"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@igorsjohn"><img src="https://img.shields.io/badge/YouTube-building%20in%20public-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="mailto:igorsjohn@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=igorjohn&style=for-the-badge&color=6b4fbb&label=profile+views" alt="Profile views"/>
 </p>
 
 ---
