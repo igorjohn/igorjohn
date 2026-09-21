@@ -92,8 +92,9 @@ I build at the intersection of product and engineering: understanding the proble
 
 ---
 
-<p align="center">
-  #### 🧱 Looking for someone who builds?<br/>
+#### 🧱 Looking for someone who builds?
+
+<p>
   Open to international remote roles as a Forward Deployed Engineer, Product Engineer or any technical role where I own the problem end to end.<br/><br/>
   <a href="https://igorjohn.dev">igorjohn.dev</a> · <a href="mailto:igorsjohn@gmail.com">igorsjohn@gmail.com</a>
 </p>
