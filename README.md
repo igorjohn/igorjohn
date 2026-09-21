@@ -63,7 +63,7 @@ I build at the intersection of product and engineering: understanding the proble
 **Infrastructure**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=flat-square&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
